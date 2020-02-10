@@ -1,0 +1,1 @@
+/// @description Laser Pause
